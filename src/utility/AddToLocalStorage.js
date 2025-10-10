@@ -21,4 +21,11 @@ const addToInstallation = (id) => {
     }
 }
 
-export { addToInstallation, getInstalledApp }
+const removeFromInstallation = (id) => {
+    const storedAppsData = getInstalledApp();
+    const updatedApps = storedAppsData.filter(app => app.id !== id);
+    localStorage.removeItem("installed", JSON.stringify(updatedApps));
+    console.log(updatedApps)
+}
+
+export { addToInstallation, getInstalledApp, removeFromInstallation }

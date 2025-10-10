@@ -9,8 +9,8 @@ const Apps = ({ data }) => {
     const datas = data.slice(0, 8)
     return (
         <div className='mt-15 mb-15 bg-base-200 flex flex-col justify-center items-center'>
-            <h1 className='font-bold text-3xl mb-4'>Trending Apps</h1>
-            <p className='text-gray-500 mb-15'>Explore All Trending Apps on the Market developed by us</p>
+            <h1 className='font-bold text-3xl md:mb-4'>Trending Apps</h1>
+            <p className='text-gray-500 md:mb-15 mb-5 md:p-0 p-6 text-center'>Explore All Trending Apps on the Market developed by us</p>
             <Suspense fallback={<span>Loading....</span>}>
                 <div className='md:w-[1300px] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3'>
                     {

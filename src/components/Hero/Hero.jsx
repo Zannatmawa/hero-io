@@ -4,9 +4,9 @@ import hero from '../../assets/hero.png'
 const Hero = () => {
     return (
         // 
-        <div className='bg-base-200 p-15 flex justify-between flex-col items-center'>
+        <div className='bg-base-200 md:p-15 p-0 flex justify-between flex-col items-center md:mb-0 mb-25'>
             <div className="hero">
-                <div className="hero-content text-center">
+                <div className="hero-content text-center md:w-[1200px] w-[350px]">
                     <div className="p-5 w-[800px]">
                         <h1 className="text-[#001931] text-6xl font-bold">We Build <br />
                             <span className='text-[#632EE3]'>Productive</span> Apps</h1>
@@ -20,7 +20,7 @@ const Hero = () => {
                 </div>
             </div>
             <div>
-                <img src={hero} alt="" />
+                <img className='md:w-[800px] w-[300px]' src={hero} alt="" />
             </div>
         </div>
     )
