@@ -1,11 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router';
 import logo from '../../assets/logo.png'
+import { IoLogoGithub } from "react-icons/io5";
+
 
 const Navbar = () => {
     const links = <>
         <Link className='m-3' to='/'>Home</Link>
-        <Link className='m-3' to='/apps'>Apps</Link>
+        <Link className='m-3' to='/allAppsPage'>Apps</Link>
         <Link className='m-3' to='/installation'>Installation</Link></>
     return (
         <div className="navbar bg-base-100 shadow-sm">
@@ -29,7 +31,7 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <a className="btn bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-white">contribute</a>
+                <Link to='https://github.com/Zannatmawa' className="btn bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-white"><IoLogoGithub />contribute</Link>
             </div>
         </div>
     );

@@ -1,3 +1,4 @@
+import { Link } from 'react-router'
 import hero from '../../assets/hero.png'
 
 const Hero = () => {
@@ -12,8 +13,9 @@ const Hero = () => {
                         <p className="py-6 text-gray-800">
                             At HERO.IO, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.Our goal is to turn your ideas into digital experiences that truly make an impact.
                         </p>
-                        <button className="btn btn-white mr-3">Google Play</button>
-                        <button className="btn btn-white">Play store</button>
+                        <Link className="btn btn-white mr-3" to="https://play.google.com/store/games?device=windows">Google Play</Link>
+                        <Link className="btn btn-white" to="https://www.apple.com/app-store/">Play store</Link>
+
                     </div>
                 </div>
             </div>

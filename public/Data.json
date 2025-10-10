@@ -1,0 +1,497 @@
+[
+    {
+        "image": "https://example.com/img/app1.png",
+        "title": "FocusMate",
+        "companyName": "ZenLabs",
+        "id": 1,
+        "description": "A productivity timer that helps you stay focused using the Pomodoro technique.",
+        "size": 25.3,
+        "reviews": 1204,
+        "ratingAvg": 4.2,
+        "downloads": 150000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 84
+            },
+            {
+                "name": "2 star",
+                "count": 102
+            },
+            {
+                "name": "3 star",
+                "count": 231
+            },
+            {
+                "name": "4 star",
+                "count": 376
+            },
+            {
+                "name": "5 star",
+                "count": 411
+            }
+        ]
+    },
+    {
+        "image": "https://example.com/img/app2.png",
+        "title": "FitTrack Pro",
+        "companyName": "HealthSync",
+        "id": 2,
+        "description": "Track your workouts, nutrition, and daily steps in one app.",
+        "size": 40.7,
+        "reviews": 2241,
+        "ratingAvg": 4.5,
+        "downloads": 300000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 62
+            },
+            {
+                "name": "2 star",
+                "count": 98
+            },
+            {
+                "name": "3 star",
+                "count": 304
+            },
+            {
+                "name": "4 star",
+                "count": 711
+            },
+            {
+                "name": "5 star",
+                "count": 1066
+            }
+        ]
+    },
+    {
+        "image": "https://example.com/img/app3.png",
+        "title": "EduMate",
+        "companyName": "SmartLearn Co.",
+        "id": 3,
+        "description": "Interactive learning app for students from grade 1 to 12.",
+        "size": 58.9,
+        "reviews": 3452,
+        "ratingAvg": 4.3,
+        "downloads": 420000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 120
+            },
+            {
+                "name": "2 star",
+                "count": 189
+            },
+            {
+                "name": "3 star",
+                "count": 402
+            },
+            {
+                "name": "4 star",
+                "count": 993
+            },
+            {
+                "name": "5 star",
+                "count": 1748
+            }
+        ]
+    },
+    {
+        "image": "https://example.com/img/app4.png",
+        "title": "TravelLog",
+        "companyName": "Wanderlust Inc.",
+        "id": 4,
+        "description": "Plan and log your trips with ease. Share memories and itineraries.",
+        "size": 34.5,
+        "reviews": 876,
+        "ratingAvg": 4.0,
+        "downloads": 120000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 76
+            },
+            {
+                "name": "2 star",
+                "count": 93
+            },
+            {
+                "name": "3 star",
+                "count": 178
+            },
+            {
+                "name": "4 star",
+                "count": 271
+            },
+            {
+                "name": "5 star",
+                "count": 258
+            }
+        ]
+    },
+    {
+        "image": "https://example.com/img/app5.png",
+        "title": "BudgetBuddy",
+        "companyName": "FinWise",
+        "id": 5,
+        "description": "Manage your personal finances and budgeting effortlessly.",
+        "size": 29.8,
+        "reviews": 1325,
+        "ratingAvg": 4.6,
+        "downloads": 200000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 33
+            },
+            {
+                "name": "2 star",
+                "count": 55
+            },
+            {
+                "name": "3 star",
+                "count": 166
+            },
+            {
+                "name": "4 star",
+                "count": 412
+            },
+            {
+                "name": "5 star",
+                "count": 659
+            }
+        ]
+    },
+    {
+        "image": "https://example.com/img/app6.png",
+        "title": "NoteX",
+        "companyName": "CloudyApps",
+        "id": 6,
+        "description": "A minimalist note-taking app with cloud sync support.",
+        "size": 19.4,
+        "reviews": 624,
+        "ratingAvg": 3.8,
+        "downloads": 95000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 72
+            },
+            {
+                "name": "2 star",
+                "count": 88
+            },
+            {
+                "name": "3 star",
+                "count": 143
+            },
+            {
+                "name": "4 star",
+                "count": 175
+            },
+            {
+                "name": "5 star",
+                "count": 146
+            }
+        ]
+    },
+    {
+        "image": "https://example.com/img/app7.png",
+        "title": "MindEase",
+        "companyName": "CalmZone",
+        "id": 7,
+        "description": "Guided meditations and relaxation techniques for better mental health.",
+        "size": 45.1,
+        "reviews": 1547,
+        "ratingAvg": 4.7,
+        "downloads": 275000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 22
+            },
+            {
+                "name": "2 star",
+                "count": 33
+            },
+            {
+                "name": "3 star",
+                "count": 116
+            },
+            {
+                "name": "4 star",
+                "count": 450
+            },
+            {
+                "name": "5 star",
+                "count": 926
+            }
+        ]
+    },
+    {
+        "image": "https://example.com/img/app8.png",
+        "title": "GameBox Arcade",
+        "companyName": "FunLabs",
+        "id": 8,
+        "description": "A collection of classic and modern mini-games to enjoy anytime.",
+        "size": 72.4,
+        "reviews": 1892,
+        "ratingAvg": 4.1,
+        "downloads": 600000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 201
+            },
+            {
+                "name": "2 star",
+                "count": 163
+            },
+            {
+                "name": "3 star",
+                "count": 382
+            },
+            {
+                "name": "4 star",
+                "count": 540
+            },
+            {
+                "name": "5 star",
+                "count": 606
+            }
+        ]
+    },
+    {
+        "image": "https://example.com/img/app9.png",
+        "title": "QuickScan",
+        "companyName": "DocTech",
+        "id": 9,
+        "description": "Scan, save, and share documents on the go with OCR support.",
+        "size": 23.7,
+        "reviews": 978,
+        "ratingAvg": 4.4,
+        "downloads": 140000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 48
+            },
+            {
+                "name": "2 star",
+                "count": 71
+            },
+            {
+                "name": "3 star",
+                "count": 212
+            },
+            {
+                "name": "4 star",
+                "count": 290
+            },
+            {
+                "name": "5 star",
+                "count": 357
+            }
+        ]
+    },
+    {
+        "image": "https://example.com/img/app10.png",
+        "title": "LangFluent",
+        "companyName": "GlobalLingo",
+        "id": 10,
+        "description": "Learn 10+ languages through games, flashcards, and conversations.",
+        "size": 61.2,
+        "reviews": 2871,
+        "ratingAvg": 4.8,
+        "downloads": 500000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 40
+            },
+            {
+                "name": "2 star",
+                "count": 65
+            },
+            {
+                "name": "3 star",
+                "count": 201
+            },
+            {
+                "name": "4 star",
+                "count": 730
+            },
+            {
+                "name": "5 star",
+                "count": 1835
+            }
+        ]
+    },
+    {
+        "image": "https://example.com/img/app11.png",
+        "title": "PhotoFX Studio",
+        "companyName": "PixSharp",
+        "id": 11,
+        "description": "Professional photo editing tools for creatives and influencers.",
+        "size": 85.6,
+        "reviews": 1902,
+        "ratingAvg": 4.2,
+        "downloads": 260000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 100
+            },
+            {
+                "name": "2 star",
+                "count": 112
+            },
+            {
+                "name": "3 star",
+                "count": 384
+            },
+            {
+                "name": "4 star",
+                "count": 594
+            },
+            {
+                "name": "5 star",
+                "count": 712
+            }
+        ]
+    },
+    {
+        "image": "https://example.com/img/app12.png",
+        "title": "CryptoVault",
+        "companyName": "BlockSecure",
+        "id": 12,
+        "description": "Store and monitor your crypto portfolio in a secure wallet.",
+        "size": 48.9,
+        "reviews": 1680,
+        "ratingAvg": 4.3,
+        "downloads": 210000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 74
+            },
+            {
+                "name": "2 star",
+                "count": 108
+            },
+            {
+                "name": "3 star",
+                "count": 295
+            },
+            {
+                "name": "4 star",
+                "count": 562
+            },
+            {
+                "name": "5 star",
+                "count": 641
+            }
+        ]
+    },
+    {
+        "image": "https://example.com/img/app13.png",
+        "title": "DailyJournal",
+        "companyName": "MindLogix",
+        "id": 13,
+        "description": "Reflect on your thoughts with daily journaling and mood tracking.",
+        "size": 21.0,
+        "reviews": 759,
+        "ratingAvg": 4.0,
+        "downloads": 98000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 65
+            },
+            {
+                "name": "2 star",
+                "count": 79
+            },
+            {
+                "name": "3 star",
+                "count": 161
+            },
+            {
+                "name": "4 star",
+                "count": 228
+            },
+            {
+                "name": "5 star",
+                "count": 226
+            }
+        ]
+    },
+    {
+        "image": "https://example.com/img/app14.png",
+        "title": "ChefMaster",
+        "companyName": "TastyTech",
+        "id": 14,
+        "description": "Explore thousands of recipes, meal plans, and grocery lists.",
+        "size": 66.7,
+        "reviews": 1182,
+        "ratingAvg": 4.1,
+        "downloads": 160000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 77
+            },
+            {
+                "name": "2 star",
+                "count": 98
+            },
+            {
+                "name": "3 star",
+                "count": 260
+            },
+            {
+                "name": "4 star",
+                "count": 341
+            },
+            {
+                "name": "5 star",
+                "count": 406
+            }
+        ]
+    },
+    {
+        "image": "https://example.com/img/app15.png",
+        "title": "WorkHub",
+        "companyName": "RemoteLink",
+        "id": 15,
+        "description": "Team communication and project management tools in one place.",
+        "size": 55.2,
+        "reviews": 2056,
+        "ratingAvg": 4.4,
+        "downloads": 310000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 93
+            },
+            {
+                "name": "2 star",
+                "count": 122
+            },
+            {
+                "name": "3 star",
+                "count": 288
+            },
+            {
+                "name": "4 star",
+                "count": 640
+            },
+            {
+                "name": "5 star",
+                "count": 913
+            }
+        ]
+    }
+]
