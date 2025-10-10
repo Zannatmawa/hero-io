@@ -30,7 +30,7 @@ const AllApp = ({ app }) => {
                     {
                         appImage ? (
                             <img
-                                src={appImage}
+                                src={img}
                                 alt={app.title}
                                 className='w-[200px] h-[200px] object-cover rounded-lg mb-3'
                             />
