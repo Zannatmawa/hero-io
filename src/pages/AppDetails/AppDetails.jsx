@@ -35,7 +35,7 @@ const AppDetails = () => {
                 {
                     appImage ? (
                         <img
-                            src={appImage}
+                            src={img}
                             className='w-[260px] h-[200px] object-cover rounded-t-lg'
                         />
                     ) : (
