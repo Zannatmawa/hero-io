@@ -1,16 +1,57 @@
-# React + Vite
+🌟 Project Title
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Responsive Portfolio Website
 
-Currently, two official plugins are available:
+📝 Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a static personal portfolio website built using HTML & CSS and deployed on Netlify.
+The site showcases a clean and responsive design to present skills, projects, and contact info—ideal for a developer portfolio.
 
-## React Compiler
+🌐 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔗 Live Site:
+https://curious-sundae-5c2ed3.netlify.app/
 
-## Expanding the ESLint configuration
+🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+HTML5
+
+CSS3
+
+Netlify (for deployment)
+
+✨ Key Features
+
+Clean and modern layout
+
+Responsive design for different screen sizes
+
+Sections for about, skills, projects, and contact
+
+Pure HTML & CSS (no JavaScript)
+
+🎯 Purpose
+
+Showcases personal profile and capabilities
+
+Good project for front-end portfolio
+
+Practice layout and styling fundamentals
+
+📌 Sections Included
+
+Header / Hero section
+
+About Me
+
+Skills showcase
+
+Featured Projects
+
+Contact information
+screenshots:
+<img width="1900" height="916" alt="image" src="https://github.com/user-attachments/assets/84158d5b-8a34-433b-9515-274853990030" />
+<img width="1877" height="870" alt="image" src="https://github.com/user-attachments/assets/0e56ac30-1184-4f42-97b1-7d7595f5665f" />
+<img width="1892" height="245" alt="image" src="https://github.com/user-attachments/assets/1a8f8cd0-1ce7-4a0a-80e0-54bf3ccfc6c9" />
+
+
